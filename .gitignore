@@ -1,5 +1,4 @@
 node_modules
-.env
 
 # Hardhat files
 /cache
@@ -12,3 +11,4 @@ node_modules
 # solidity-coverage files
 /coverage
 /coverage.json
+config.bat
