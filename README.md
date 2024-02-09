@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+
+<img width="1470" alt="dappSS" src="https://github.com/Adi9876/Lottery-DApp/assets/62845979/38e0e04d-07e8-4dce-b48b-eb52cf17b18c">
